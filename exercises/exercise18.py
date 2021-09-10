@@ -14,6 +14,7 @@ while i <= number**(0.5):
     if i*i == number:
         square = True
         break
+
 if square:
     print('The square root of', number, 'is', i, '.')
 else:
