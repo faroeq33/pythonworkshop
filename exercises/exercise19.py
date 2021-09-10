@@ -16,3 +16,5 @@ while offer <= best:
         offer_accepted = True
         print('Your offer of', offer, 'has been accepted!')
         break
+    print('We\'re sorry, you\'re offer of', offer, 'has not been accepted.')
+    offer += increment
