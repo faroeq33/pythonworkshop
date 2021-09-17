@@ -1,5 +1,5 @@
 shopping = ["bread", "milk", "eggs"]
-print(shopping)
+
 
 # display mixed items
 for item in shopping:
